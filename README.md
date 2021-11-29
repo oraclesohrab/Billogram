@@ -10,3 +10,5 @@ Billogram test challenge
 -DataBase : Postgres
 
 -Luscid link: https://lucid.app/documents/view/3ebb50bb-8f60-42dc-b10e-71d5ec722b99
+
+-Time spent: 4:30 hours
