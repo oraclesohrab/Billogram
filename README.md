@@ -8,3 +8,5 @@ Billogram test challenge
 -Services used in code : [Lambda Functions, RDS, Event Bridge, Cognito]
 
 -DataBase : Postgres
+
+-Luscid link: https://lucid.app/documents/view/3ebb50bb-8f60-42dc-b10e-71d5ec722b99
